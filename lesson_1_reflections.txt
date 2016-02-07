@@ -1,0 +1,44 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+FC command helped me to locate lines in two codes (the old and the new one) that 
+have some diferences. It was up to me just to check those lines, character by 
+character, to spot the error in the new document. This has obviously saved me a 
+lot of time in the search for error.
+
+How could having easy access to the entire history of a file make you a more efficient 
+programmer in the long term?
+
+Firstly, being always able to look at past versions of my work I can spot
+changes and improvements in my style of coding. I can spot some old mistakes
+that I made and ask myself why I made them, what line of thinking or lack of
+knowledge led to them.
+Secondly, by reviewing the old versions I can learn better of the whole process
+of making the code and timing of it. For example, is the first version of some
+part of my code too little polished? Maybe, if I put more work in finishing one 
+particular part of the code I would save me some work later?
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+Docs does?
+
+Pros: I can choose logically same parts to commit them at once; if I make
+several important changes in small period of time I can commit after each one
+of them, etc. Cons: If I forget to save my project on time, the auto-save will
+do that for me. When auto-save option lacks I could make too much changes
+and later will be hard to compare two versions.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+I don't have a clue, I don't know shit about Google Docs.
+
+How can you use the commands git log and git diff to view the history of files?
+
+Git log command will show me all versions of files that exist and git diff
+command will show me differences between two versions.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+With the proper version control I would be able to find when the bug occurred 
+without reading through the whole code looking for one messed up line.

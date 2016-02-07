@@ -1,0 +1,22 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Command git init will create .git folder whitch allows me to use version control later. 
+It needs to be done so Git could "know" it should treat a folder like a repository.
+
+How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+
+While working, I can put any files in the staging area which I think that belong
+to one commit. Later, when I am ready to make a commit I can reevaluate my 
+choices and remove or add some files before doing so.
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+I can add and remove files to staging area until I'm sure that I want to make
+a commit.
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+I can't think right now, because of the fucking tv.
