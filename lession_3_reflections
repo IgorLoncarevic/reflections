@@ -3,3 +3,8 @@ When would you want to use a remote repository rather than keeping all your work
 This is useful in many ways. I would obviously use remote repository when I'm working with other people, 
 but I would use it anyway because it's goot to have copy of my files in the cloud if something gets
 accidentally deleted or if I change the PC I'm currently working on.
+
+Why might you want to always pull changes manually rather than having Git automatically stay 
+up-to-date with your remote repository?
+
+I want to think for a second if that thing I just wrote makes any sense before I pull it.
